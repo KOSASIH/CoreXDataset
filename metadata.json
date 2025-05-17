@@ -1,0 +1,32 @@
+{
+    "dataset_name": "CoreXDataSet",
+    "description": "A multi-modal dataset for training and evaluating the OmniCoreX AI model.",
+    "version": "1.0",
+    "data_types": {
+        "text": {
+            "count": 3,
+            "description": "Text samples containing diverse knowledge."
+        },
+        "images": {
+            "count": 3,
+            "description": "Images representing various domains."
+        },
+        "sensors": {
+            "count": 3,
+            "description": "Sensor data sequences from IoT devices."
+        },
+        "audio": {
+            "count": 3,
+            "description": "Audio clips for sound recognition tasks."
+        },
+        "annotations": {
+            "count": 3,
+            "description": "Annotations for supervised learning tasks."
+        }
+    },
+    "license": "CC BY-NC 4.0",
+    "contact": {
+        "email": "support@omnicorex.ai",
+        "github": "https://github.com/Kosasih/CoreXDataSet"
+    }
+}
