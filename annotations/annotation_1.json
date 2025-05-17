@@ -1,0 +1,10 @@
+{
+  "id": "annotation_1",
+  "type": "classification",
+  "target": "Artificial Intelligence",
+  "source_text_id": "text_1",
+  "labels": ["AI", "Technology", "Computer Science"],
+  "confidence": 0.98,
+  "date_annotated": "2024-01-10"
+}
+
